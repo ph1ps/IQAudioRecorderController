@@ -8,29 +8,29 @@
 
 /* Begin PBXBuildFile section */
 		2548F517200235CB002AC103 /* IQAudioRecorderController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F515200235CB002AC103 /* IQAudioRecorderController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2548F534200235F6002AC103 /* NSString+IQTimeIntervalFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F51D200235F3002AC103 /* NSString+IQTimeIntervalFormatter.h */; };
+		2548F534200235F6002AC103 /* NSString+IQTimeIntervalFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F51D200235F3002AC103 /* NSString+IQTimeIntervalFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2548F535200235F6002AC103 /* IQAudioRecorderController.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 2548F51F200235F3002AC103 /* IQAudioRecorderController.bundle */; };
-		2548F536200235F6002AC103 /* IQPlaybackDurationView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F520200235F3002AC103 /* IQPlaybackDurationView.h */; };
+		2548F536200235F6002AC103 /* IQPlaybackDurationView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F520200235F3002AC103 /* IQPlaybackDurationView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2548F537200235F6002AC103 /* IQAudioCropperViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F521200235F3002AC103 /* IQAudioCropperViewController.m */; };
-		2548F538200235F6002AC103 /* IQCropSelectionBeginView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F522200235F3002AC103 /* IQCropSelectionBeginView.h */; };
+		2548F538200235F6002AC103 /* IQCropSelectionBeginView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F522200235F3002AC103 /* IQCropSelectionBeginView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2548F539200235F6002AC103 /* IQAudioRecorderConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F523200235F3002AC103 /* IQAudioRecorderConstants.m */; };
-		2548F53A200235F6002AC103 /* IQMessageDisplayView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F524200235F3002AC103 /* IQMessageDisplayView.h */; };
+		2548F53A200235F6002AC103 /* IQMessageDisplayView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F524200235F3002AC103 /* IQMessageDisplayView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2548F53B200235F6002AC103 /* IQMessageDisplayView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F525200235F4002AC103 /* IQMessageDisplayView.m */; };
-		2548F53C200235F6002AC103 /* IQCropSelectionEndView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F526200235F4002AC103 /* IQCropSelectionEndView.h */; };
-		2548F53D200235F6002AC103 /* IQAudioCropperViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F527200235F4002AC103 /* IQAudioCropperViewController.h */; };
+		2548F53C200235F6002AC103 /* IQCropSelectionEndView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F526200235F4002AC103 /* IQCropSelectionEndView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2548F53D200235F6002AC103 /* IQAudioCropperViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F527200235F4002AC103 /* IQAudioCropperViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2548F53E200235F6002AC103 /* NSString+IQTimeIntervalFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F528200235F4002AC103 /* NSString+IQTimeIntervalFormatter.m */; };
 		2548F53F200235F6002AC103 /* IQCropSelectionEndView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F529200235F4002AC103 /* IQCropSelectionEndView.m */; };
 		2548F540200235F6002AC103 /* IQ_FDWaveformView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F52B200235F4002AC103 /* IQ_FDWaveformView.m */; };
-		2548F541200235F6002AC103 /* IQ_FDWaveformView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F52C200235F4002AC103 /* IQ_FDWaveformView.h */; };
-		2548F542200235F6002AC103 /* IQCropSelectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F52D200235F4002AC103 /* IQCropSelectionView.h */; };
+		2548F541200235F6002AC103 /* IQ_FDWaveformView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F52C200235F4002AC103 /* IQ_FDWaveformView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2548F542200235F6002AC103 /* IQCropSelectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F52D200235F4002AC103 /* IQCropSelectionView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2548F543200235F6002AC103 /* IQAudioRecorderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F52E200235F5002AC103 /* IQAudioRecorderViewController.m */; };
 		2548F544200235F6002AC103 /* IQPlaybackDurationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F52F200235F5002AC103 /* IQPlaybackDurationView.m */; };
-		2548F545200235F6002AC103 /* IQAudioRecorderViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F530200235F5002AC103 /* IQAudioRecorderViewController.h */; };
+		2548F545200235F6002AC103 /* IQAudioRecorderViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F530200235F5002AC103 /* IQAudioRecorderViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2548F546200235F6002AC103 /* IQCropSelectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F531200235F5002AC103 /* IQCropSelectionView.m */; };
 		2548F547200235F6002AC103 /* IQCropSelectionBeginView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F532200235F5002AC103 /* IQCropSelectionBeginView.m */; };
-		2548F548200235F6002AC103 /* IQAudioRecorderConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F533200235F5002AC103 /* IQAudioRecorderConstants.h */; };
+		2548F548200235F6002AC103 /* IQAudioRecorderConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F533200235F5002AC103 /* IQAudioRecorderConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2548F54C2002365B002AC103 /* SCSiriWaveformView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2548F54A2002365B002AC103 /* SCSiriWaveformView.m */; };
-		2548F54D2002365B002AC103 /* SCSiriWaveformView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F54B2002365B002AC103 /* SCSiriWaveformView.h */; };
+		2548F54D2002365B002AC103 /* SCSiriWaveformView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2548F54B2002365B002AC103 /* SCSiriWaveformView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -112,8 +112,8 @@
 				2548F52F200235F5002AC103 /* IQPlaybackDurationView.m */,
 				2548F51D200235F3002AC103 /* NSString+IQTimeIntervalFormatter.h */,
 				2548F528200235F4002AC103 /* NSString+IQTimeIntervalFormatter.m */,
-				2548F51E200235F3002AC103 /* Resources */,
 				2548F515200235CB002AC103 /* IQAudioRecorderController.h */,
+				2548F51E200235F3002AC103 /* Resources */,
 				2548F516200235CB002AC103 /* Info.plist */,
 			);
 			path = IQAudioRecorderController;
